@@ -1,0 +1,32 @@
+                <!-- Corpo do novo piu:
+                <div piu completo>
+                    <div class="piu1">
+                        <div class="topoDoPiu">
+                            <div class="user">
+                                foto do usuario
+                                <div class="username">
+                                    <h3>Nome</h3>
+                                    <h4>nome de usuário</h4>
+                                </div>
+                            </div>
+                            foto da logo
+                        </div>
+
+                        <p>conteudo</p>
+                    </div>
+
+                    <div class="piu2">
+                        <div class="baseDoPiu">
+                            <button class = 'like'>
+                                imagem do coração 
+                            </button>
+                            <button class ='pin'>
+                                imagem do pino
+                            </button>
+                            <button class ='close'>
+                                imagem do x
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                -->
